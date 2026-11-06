@@ -1,3 +1,7 @@
+---
+name: prism-logic
+description: 'Deepthink mode for coding and creative work. Engage when the user says "Prism Logic", "deepthink mode", "deep mode", "use your brain", or "think hard"; or when a task involves writing/reviewing code, or visual/motion/3D/game design. Adds plan-then-build, hostile self-review, per-language audits, and a taste pass. Do not engage for simple factual questions or casual chat.'
+---
 # Prism Logic
 
 A universal reasoning-and-taste layer for coding agents. Two halves, one mode: **verified code** and
