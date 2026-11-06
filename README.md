@@ -41,16 +41,16 @@ Copilot, Windsurf, Zed, and OpenCode.
 
 ```bash
 # preview what's in the repo first
-npx skills add <you>/prism-logic -l
+npx skills add 10101010101010101101010101101/prism-logic -l
 
 # install globally to every agent it detects
-npx skills add <you>/prism-logic -g
+npx skills add 10101010101010101101010101101/prism-logic -g
 
 # or target one agent, non-interactively
-npx skills add <you>/prism-logic -g -a claude-code -s prism-logic -y
+npx skills add 10101010101010101101010101101/prism-logic -g -a claude-code -s prism-logic -y
 
 # try it without installing (generates a one-shot prompt)
-npx skills use <you>/prism-logic@prism-logic --agent cursor
+npx skills use 10101010101010101101010101101/prism-logic@prism-logic --agent cursor
 ```
 
 Useful flags: `-g` global instead of project-level · `-a <agent>` target · `-s <skill>` pick one ·
@@ -140,4 +140,4 @@ behavioral changes — people need to know when the taste checklist or guardrail
 
 MIT — see [LICENSE](LICENSE).
 
-Built by [<your-name>](https://github.com/<you>).
+Built by [10101010101010101101010101101](https://github.com/<you>).
